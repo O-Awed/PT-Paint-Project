@@ -1,0 +1,4 @@
+3
+Rectangle 0 100 137 407 382  Orange Orange
+circle 1 633 283 600 384  Blue Blue
+Square 2 984 286 Green Green
